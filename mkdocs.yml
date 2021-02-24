@@ -1,0 +1,32 @@
+theme:
+  name: material
+  favicon: favicon.ico
+  logo: images/archer2_white_transparent.png
+  palette:
+    scheme: default
+  features:
+    - tabs
+  icon:
+    repo: fontawesome/brands/github
+
+extra_css:
+  - stylesheets/n01pages.css
+
+site_name: n01 consortium Documentation
+repo_url: https://github.com/accowa/n01-pages
+repo_name: accowa/n01-pages
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+
+nav:
+  - "Documentation overview": index.md
+  - "Consortium Software":
+    - "NEMO": models/nemo/nemo.md
+  - "Post-processing tips": postproc/index.md
+  - "Forcing datasets": forcing/index.md
+  - "Personal projects": nemo_studio/index.md
+
+
