@@ -1,7 +1,7 @@
 theme:
   name: material
   favicon: favicon.ico
-  logo: images/archer2_white_transparent.png
+  logo: images/n01_blue_transparent.png
   palette:
     scheme: default
   features:

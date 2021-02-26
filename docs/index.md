@@ -1,9 +1,12 @@
+<center>
+<img src="./images/n01_blue_transparent.png" width="125" height="125">
+</center>
 # n01 Oceans and Shelf Seas consortium pages
 
 This is a personal documentation site which will be of some benefit to other
 members of the n01, Oceans and Shelf Seas consortium. This site will host more
 detailed help and tips on using the codes most frequently employed by members of
-the consortium and with associated podt-processing tasks.
+the consortium and with associated post-processing tasks.
 
   - [Consortium Software](models/index.md)
   - [Post-processing tips](postproc/index.md)

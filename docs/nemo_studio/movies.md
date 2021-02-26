@@ -80,7 +80,6 @@ do
  fi
  if test $nt -gt 0 ; then
   srun --ntasks=$nt --mem-bind=local --cpu-bind=v,map_cpu:00,0x8,0x10,0x18,0x20,0x28,0x30,0x38,0x40,0x48,0x50,0x58 --multi-prog $tsklst
-  #srun --ntasks=$nt --mem-bind=local --hint=compute_bound --distribution=block:block --multi-prog $tsklst
  fi
 done
 #
