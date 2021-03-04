@@ -1,15 +1,21 @@
-# ARCHER2 Documentation
+# ARCHER2: n01 Oceans and Shelf Seas Consortium supplementry documentation
 
 ARCHER2 is the next generation UK National Supercomputing Service. You
 can find more information on the service and the research it supports on
 the [ARCHER2 website](https://www.archer2.ac.uk).
 
-This repository contains the documentation for the service and is linked
-to a rendered version currently hosted on Github:[n01-pages](https:accowa.github.io).
+This repository contains additional documentation for the NERC, n01 Oceans and
+Shelf Seas consortium and is linked to a rendered version currently hosted on
+Github:[n01-pages](https://accowa.github.io). This material includes a section
+on using NEMO on ARCHER2 which is duplicated in the official [ARCHER2
+documention prepared by EPCC, The University of
+Edinburgh](https://docs.archer2.ac.uk). The rest of the material, here, is
+supplementry and based entirely on the personal experiences of members of the
+consortium. It is intended to provide guides and tips rather than rigid
+methodologies. As such it is likely to evolve more rapidly than the official
+documentation which should always be consulted first for information on wider
+aspects of the service.
 
-For a guide on the rst file format see
-[this](http://thomas-cokelaer.info/tutorials/sphinx/rest_syntax.html)
-document.
 
 ## How to contribute
 
@@ -48,3 +54,8 @@ followed. If there are any errors in your changes the build will fail
 and the documentation will not update, you can test your build locally
 by running `mkdocs serve`. The easiest way to learn what files should look
 like is to read the Markdown files already in the repository.
+
+For a guide on the rst file format see
+[this](http://thomas-cokelaer.info/tutorials/sphinx/rest_syntax.html)
+document.
+
