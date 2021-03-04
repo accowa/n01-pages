@@ -6,8 +6,8 @@ the [ARCHER2 website](https://www.archer2.ac.uk).
 
 This repository contains additional documentation for the NERC, n01 Oceans and
 Shelf Seas consortium and is linked to a rendered version currently hosted on
-Github:[n01-pages](https://accowa.github.io). This material includes a section
-on using NEMO on ARCHER2 which is duplicated in the official [ARCHER2
+Github:[n01-pages](https://accowa.github.io/n01-pages). This material includes a
+section on using NEMO on ARCHER2 which is duplicated in the official [ARCHER2
 documention prepared by EPCC, The University of
 Edinburgh](https://docs.archer2.ac.uk). The rest of the material, here, is
 supplementry and based entirely on the personal experiences of members of the
