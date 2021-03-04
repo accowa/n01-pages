@@ -14,9 +14,9 @@ was produced with this command:
 -usemap /work/n01/n01/acc/TOOLS/IM/NemoSim/eORCA1_600x300.nc \
 -limits -1.8 30.0 -r 600 300 -no_offset -sw 0. -90. -ne 360. 90. \
 -np 8 -d2 siconc -overlay \
--f  2100/eORCA1_MED_UKESM_y2100m12_grid_T.nc \
--f2 2100/eORCA1_MED_UKESM_y2100m12_icemod.nc \
--o /work/n01/n01/acc/NOCSMULTITASK/frames/out_3011.png -dateclk 35 40 65 15122100
+-f  1933/eORCA1_MED_UKESM_y1933m05_grid_T.nc \
+-f2 1933/eORCA1_MED_UKESM_y1933m05_icemod.nc \
+-o /work/n01/n01/acc/NOCSMULTITASK/frames/out_3011.png -dateclk 35 40 65 15051933
 ```
 
 which looks daunting but is easily generated in a script and, when run in
