@@ -25,5 +25,8 @@ or addtions to the content.
 This documentation builds on the nemo section that was contributed to the
 [Official ARCHER2 documentation](https://docs.archer2.ac.uk). That section 
 is repeated here under the [Consortium Software](models/index.md) page.
+This documentation is intended to supplement the 
+[ARCHER2 service documentation produced by EPCC, The University of Edinburgh](https://docs.archer2.ac.uk)
+which should always be consulted as the definitive guide to wider aspects of the service.
 
 
