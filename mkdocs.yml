@@ -26,6 +26,7 @@ nav:
   - "Consortium Software":
     - "NEMO": models/nemo/nemo.md
   - "Post-processing tips": postproc/index.md
+  - "JASMIN tips": jasmin/index.md
   - "Forcing datasets": forcing/index.md
   - "Personal projects": nemo_studio/index.md
 
