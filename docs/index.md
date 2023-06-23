@@ -10,6 +10,7 @@ the consortium and with associated post-processing tasks.
 
   - [Consortium Software](models/index.md)
   - [Post-processing tips](postproc/index.md)
+  - [JASMIN tips](jasmin/index.md)
   - [Forcing datasets](forcing/index.md)
   - [Personal projects](nemo_studio/index.md)
 
